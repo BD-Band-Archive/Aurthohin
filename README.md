@@ -31,7 +31,7 @@
 12. [Agontuk 1 (আগন্তুক ১) (2003)](#12-agontuk-1-2003)
 13. [Agontuk 2 (আগন্তুক ২) (2004)](#13-agontuk-2-2004)
 14. [Agontuk 3 (আগন্তুক ৩) (2005)](#14-agontuk-3-2005)
-15. [Live Now (লাইভ নাউ) (2007)](#15-live-now-2007)
+15. [Live Now (লাইভ নাও) (2007)](#15-live-now-2007)
 
 ### 👑 Bassbaba Sumon Discography
 16. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#16-sumon-o-aurthohin-1997)
@@ -423,7 +423,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ---
 
 <a id="15-live-now-2007"></a>
-## 15. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 15. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
 
 ### 🎵 Tracklist (One-Tap Download)
 
