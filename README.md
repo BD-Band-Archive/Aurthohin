@@ -449,11 +449,22 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ---
 
 <a id="16-live-now-2007"></a>
-## 16. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+## 16. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#8-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Aurthohin - Hollow (Attohonon-2)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true)
+
+---
+
+<a id="17-shomorpon-2011"></a>
+## 17. [Shomorpon (সমর্পণ) (2011)](https://github.com/GhostDog45/Mixed-Albums#19-shomorpon-2011)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Loke Bole Bolere**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true)
+- [**Aurthohin - Ekdin Tor Hoibore Shoron**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true)
+- [**Aurthohin - Matiro Pinjira**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true)
 
 ---
 
