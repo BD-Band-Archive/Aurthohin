@@ -332,6 +332,12 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 - **Release Year:** 2022
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Phoenixer%20Diary%201/Album%20Covers/Phoenixer%20Diary%201%20%5BFront%5D.jpg" width="300" alt="Phoenixer Diary 1 Cover" />
+</p>
+- **Release Year:** 2022
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 📖 About the Album
 Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") heralded the long-awaited resurrection of Aurthohin following Bassbaba Sumon's prolonged battle with severe medical treatments and life-threatening surgeries. Symbolic of the mythical phoenix rising unbowed from the ashes, the album delivers electrifying grooves, raw emotion, and sheer rock power across tracks like *"Phoenix 1"*, *"Aajibon"*, *"Bidrohi"*, *"Amar E Gaan"*, and *"Jokhon Tumi Nai"*.
 
@@ -355,6 +361,12 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 - **Release Year:** 2024
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Phoenixer%20Diary%202/Album%20Covers/Phoenixer%20Diary%202%20%5BFront%5D.jpg" width="300" alt="Phoenixer Diary 2 Cover" />
+</p>
+- **Release Year:** 2024
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 📖 About the Album
 *Phoenixer Diary 2* ("Diary of the Phoenix 2") marks the triumphant and electrifying continuation of Aurthohin's musical resurgence led by Bassbaba Sumon following years of relentless battles and recovery. Showcasing intense progressive metal grooves, evocative lyrical storytelling, and Sumon's signature bass wizardry, the album features monumental anthems including *"Phoenix 2"*, *"Nikkrishto 4"*, *"Bedonar Chorabali 2"*, and *"Cactus"*.
 
@@ -375,6 +387,9 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ## 10. Singles
 
 - **Band:** Aurthohin (অর্থহীন)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -567,7 +582,7 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
-| <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/folder.jpg" width="300" alt="8. Cover Slipcase" /><br><sub><b>8. Cover Slipcase</b></sub> |
+| <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="https://raw.githubusercontent.com/GhostDog45/Bassbaba-Sumon/master/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BFront%5D.jpg" width="300" alt="8. Cover Slipcase" /><br><sub><b>8. Cover Slipcase</b></sub> |
 
 ---
 
