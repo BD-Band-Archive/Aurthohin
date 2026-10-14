@@ -30,16 +30,18 @@
 11. [Onushilon (অনুশীলন) (2002)](#11-onushilon-2002)
 12. [Agontuk 1 (আগন্তুক ১) (2003)](#12-agontuk-1-2003)
 13. [Agontuk 2 (আগন্তুক ২) (2004)](#13-agontuk-2-2004)
-14. [Agontuk 3 (আগন্তুক ৩) (2005)](#14-agontuk-3-2005)
-15. [Live Now (লাইভ নাও) (2007)](#15-live-now-2007)
+14. [Shopnochura (স্বপ্নচূড়া) (2004)](#14-shopnochura-2004)
+15. [Agontuk 3 (আগন্তুক ৩) (2005)](#15-agontuk-3-2005)
+16. [Live Now (লাইভ নাও) (2007)](#16-live-now-2007)
+17. [Shomorpon (সমর্পণ) (2011)](#17-shomorpon-2011)
 
 ### 👑 Bassbaba Sumon Discography
-16. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#16-sumon-o-aurthohin-1997)
-17. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](#17-shopnogulo-tomar-moto-2002)
-18. [Megher Deshe (মেঘের দেশে) (2005)](#18-megher-deshe-2005)
-19. [Boka Manushta (বোকা মানুষটা) (2007)](#19-boka-manushta-2007)
-20. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#20-ekhon-ami-2007)
-21. [Bassbaba Sumon — Standalone Solo Singles](#21-bassbaba-sumon--standalone-solo-singles)
+18. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#18-sumon-o-aurthohin-1997)
+19. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](#19-shopnogulo-tomar-moto-2002)
+20. [Megher Deshe (মেঘের দেশে) (2005)](#20-megher-deshe-2005)
+21. [Boka Manushta (বোকা মানুষটা) (2007)](#21-boka-manushta-2007)
+22. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#22-ekhon-ami-2007)
+23. [Bassbaba Sumon — Standalone Solo Singles](#23-bassbaba-sumon--standalone-solo-singles)
 ---
 
 <a id="1-trimatrik"></a>
@@ -335,14 +337,14 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Aajibon**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Aajibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Aajibon.flac?download=true)
-- [**Adbhut**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Adbhut.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Adbhut.flac?download=true)
-- [**Amar E Gaan**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Amar%20E%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Amar%20E%20Gaan.flac?download=true)
-- [**Bidrohi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Bidrohi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Bidrohi.flac?download=true)
-- [**Jokhon Tumi Nai**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Jokhon%20Tumi%20Nai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Jokhon%20Tumi%20Nai.flac?download=true)
-- [**Nithor**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Nithor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Nithor.flac?download=true)
-- [**Phoenix 1**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Phoenix%201.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Phoenix%201.flac?download=true)
-- [**Shopnogulo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Shopnogulo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aurthohin%20-%20Shopnogulo.flac?download=true)
+- [**Aajibon**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aajibon%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Aajibon%20-%20Aurthohin.flac?download=true)
+- [**Adbhut**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Adbhut%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Adbhut%20-%20Aurthohin.flac?download=true)
+- [**Amar E Gaan**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Amar%20E%20Gaan%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Amar%20E%20Gaan%20-%20Aurthohin.flac?download=true)
+- [**Bidrohi**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Bidrohi%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Bidrohi%20-%20Aurthohin.flac?download=true)
+- [**Jokhon Tumi Nai**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Jokhon%20Tumi%20Nai%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Jokhon%20Tumi%20Nai%20-%20Aurthohin.flac?download=true)
+- [**Nithor**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Nithor%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Nithor%20-%20Aurthohin.flac?download=true)
+- [**Phoenix 1**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Phoenix%201%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Phoenix%201%20-%20Aurthohin.flac?download=true)
+- [**Shopnogulo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Shopnogulo%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Shopnogulo%20-%20Aurthohin.flac?download=true)
 
 ---
 
@@ -412,8 +414,17 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="14-agontuk-3-2005"></a>
-## 14. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+<a id="14-shopnochura-2004"></a>
+## 14. [Shopnochura (স্বপ্নচূড়া) (2004)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-2004)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true)
+
+---
+
+<a id="15-agontuk-3-2005"></a>
+## 15. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -422,8 +433,8 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="15-live-now-2007"></a>
-## 15. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+<a id="16-live-now-2007"></a>
+## 16. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -438,8 +449,8 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="16-sumon-o-aurthohin-1997"></a>
-## 16. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
+<a id="18-sumon-o-aurthohin-1997"></a>
+## 18. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Mixed-Albums#1-sumon-o-aurthohin-1997)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 1997
@@ -481,8 +492,8 @@ Released in 1997 before the formal establishment of the band Aurthohin, *Sumon O
 
 ---
 
-<a id="17-shopnogulo-tomar-moto-2002"></a>
-## 17. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](https://github.com/GhostDog45/Mixed-Albums#3-shopnogulo-tomar-moto-2002)
+<a id="19-shopnogulo-tomar-moto-2002"></a>
+## 19. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](https://github.com/GhostDog45/Mixed-Albums#3-shopnogulo-tomar-moto-2002)
 
 - **Artist:** Bassbaba Sumon (অর্থহীন এর সুমন)
 - **Release Year:** 2002
@@ -520,8 +531,8 @@ Released in 2002 by G-Series under the moniker *"Aurthohin Er Sumon"*, *Shopnogu
 
 ---
 
-<a id="18-megher-deshe-2005"></a>
-## 18. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums#8-megher-deshe-2005)
+<a id="20-megher-deshe-2005"></a>
+## 20. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums#8-megher-deshe-2005)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2005
@@ -560,8 +571,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="19-boka-manushta-2007"></a>
-## 19. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
+<a id="21-boka-manushta-2007"></a>
+## 21. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
@@ -606,8 +617,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="20-ekhon-ami-2007"></a>
-## 20. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums#10-ekhon-ami-2007)
+<a id="22-ekhon-ami-2007"></a>
+## 22. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums#10-ekhon-ami-2007)
 
 - **Artists:** Bassbaba Sumon & Anila Naz Chowdhury
 - **Release Year:** 2007
@@ -645,8 +656,8 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 
 ---
 
-<a id="21-bassbaba-sumon--standalone-solo-singles"></a>
-## 21. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums#13-singles--standalone-releases)
+<a id="23-bassbaba-sumon--standalone-solo-singles"></a>
+## 23. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums#13-singles--standalone-releases)
 
 - **Artist:** Bassbaba Sumon
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
