@@ -352,6 +352,13 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 - [**Phoenix 1**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Phoenix%201%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Phoenix%201%20-%20Aurthohin.flac?download=true)
 - [**Shopnogulo**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Shopnogulo%20-%20Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%201/Shopnogulo%20-%20Aurthohin.flac?download=true)
 
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Phoenixer%20Diary%201/Album%20Covers/Phoenixer%20Diary%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
 ---
 
 <a id="9-phoenixer-diary-2-2024"></a>
@@ -381,6 +388,13 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 - [**Shikari**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%202/Aurthohin%20-%20Shikari.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%202/Aurthohin%20-%20Shikari.flac?download=true)
 - [**Unmad**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%202/Aurthohin%20-%20Unmad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Phoenixer%20Diary%202/Aurthohin%20-%20Unmad.flac?download=true)
 
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Phoenixer%20Diary%202/Album%20Covers/Phoenixer%20Diary%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
 ---
 
 <a id="10-singles"></a>
@@ -399,6 +413,13 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 - [**Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Epitaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Aurthohin/master/Singles/Epitaph.flac?download=true)
 
 ---
+
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Aurthohin%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
 
 ---
 
