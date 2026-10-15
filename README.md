@@ -27,16 +27,17 @@
 10. [Singles](#10-singles)
 
 ### 💿 Mixed Albums
-11. [Onushilon (অনুশীলন) (2002)](#11-onushilon-2002)
-12. [Agontuk 1 (আগন্তুক ১) (2003)](#12-agontuk-1-2003)
-13. [Agontuk 2 (আগন্তুক ২) (2004)](#13-agontuk-2-2004)
-14. [Shopnochura (স্বপ্নচূড়া) (2004)](#14-shopnochura-2004)
-15. [Agontuk 3 (আগন্তুক ৩) (2005)](#15-agontuk-3-2005)
-16. [Live Now (লাইভ নাও) (2007)](#16-live-now-2007)
-17. [Shomorpon (সমর্পণ) (2011)](#17-shomorpon-2011)
-18. [Charpotro (2001)](#18-charpotro-2001)
-19. [Lokayot (2004)](#19-lokayot-2004)
-20. [Projonmo (2002)](#20-projonmo-2002)
+11. [Charpotro (2001)](#11-charpotro-2001)
+12. [Onushilon (অনুশীলন) (2002)](#12-onushilon-অনশলন-2002)
+13. [Projonmo (2002)](#13-projonmo-2002)
+14. [Agontuk 1 (আগন্তুক ১) (2003)](#14-agontuk-1-আগনতক-১-2003)
+15. [Agontuk 2 (আগন্তুক ২) (2004)](#15-agontuk-2-আগনতক-২-2004)
+16. [Lokayot (2004)](#16-lokayot-2004)
+17. [Shopnochura (স্বপ্নচূড়া) (2004)](#17-shopnochura-সবপনচড-2004)
+18. [Agontuk 3 (আগন্তুক ৩) (2005)](#18-agontuk-3-আগনতক-৩-2005)
+19. [Live Now (লাইভ নাও) (2007)](#19-live-now-লইভ-নও-2007)
+20. [Shomorpon (সমর্পণ) (2011)](#20-shomorpon-সমরপণ-2011)
+
 
 ---
 
@@ -417,95 +418,87 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="11-onushilon-2002"></a>
-## 11. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Shurjo (সূর্য)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/01%20-%20%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/01%20-%20%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF.flac?download=true)
-
 ---
 
-<a id="12-agontuk-1-2003"></a>
-## 12. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - A.O.D.**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/01%20A.O.D.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/01%20A.O.D.flac?download=true)
-
----
-
-<a id="13-agontuk-2-2004"></a>
-## 13. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Juddho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/01%20-%20Aurthohin%20-%20Juddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/01%20-%20Aurthohin%20-%20Juddho.flac?download=true)
-
----
-
-<a id="14-shopnochura-2004"></a>
-## 14. [Shopnochura (স্বপ্নচূড়া) (2004)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true)
-
----
-
-<a id="15-agontuk-3-2005"></a>
-## 15. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Itihash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true)
-
----
-
-<a id="16-live-now-2007"></a>
-## 16. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#8-live-now-2007)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Hollow (Attohonon-2)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true)
-
----
-
-<a id="17-shomorpon-2011"></a>
-## 17. [Shomorpon (সমর্পণ) (2011)](https://github.com/GhostDog45/Mixed-Albums#19-shomorpon-2011)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Loke Bole Bolere**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true)
-- [**Aurthohin - Ekdin Tor Hoibore Shoron**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true)
-- [**Aurthohin - Matiro Pinjira**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true)
-
----
-
-<a id="18-charpotro-2001"></a><a id="24-charpotro-2001"></a>
-## 18. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
-
+<a id="11-charpotro-2001"></a><a id="18-charpotro-2001"></a><a id="24-charpotro-2001"></a>
+## 11. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Aurthohin - Attohonon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true)
 
 ---
 
-<a id="19-lokayot-2004"></a><a id="26-lokayot-2004"></a>
-## 19. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
+<a id="12-onushilon-অনশলন-2002"></a><a id="11-onushilon-2002"></a>
+## 12. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
+### 🎵 Tracklist (One-Tap Download)
 
+- [**Aurthohin - Shurjo (সূর্য)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/01%20-%20%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/01%20-%20%E0%A6%B8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AF.flac?download=true)
+
+---
+
+<a id="13-projonmo-2002"></a><a id="20-projonmo-2002"></a><a id="27-projonmo-2002"></a>
+## 13. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Otit/Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
+
+---
+
+<a id="14-agontuk-1-আগনতক-১-2003"></a><a id="12-agontuk-1-2003"></a>
+## 14. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - A.O.D.**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/01%20A.O.D.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/01%20A.O.D.flac?download=true)
+
+---
+
+<a id="15-agontuk-2-আগনতক-২-2004"></a><a id="13-agontuk-2-2004"></a>
+## 15. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Juddho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/01%20-%20Aurthohin%20-%20Juddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/01%20-%20Aurthohin%20-%20Juddho.flac?download=true)
+
+---
+
+<a id="16-lokayot-2004"></a><a id="19-lokayot-2004"></a><a id="26-lokayot-2004"></a>
+## 16. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Aurthohin - Boyosh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true)
 
 ---
 
-<a id="20-projonmo-2002"></a><a id="27-projonmo-2002"></a>
-## 20. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
-
+<a id="17-shopnochura-সবপনচড-2004"></a><a id="14-shopnochura-2004"></a>
+## 17. [Shopnochura (স্বপ্নচূড়া) (2004)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Aurthohin - Otit/Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
+- [**Aurthohin - Epitaph**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/02%20Epithaph.flac?download=true)
+
+---
+
+<a id="18-agontuk-3-আগনতক-৩-2005"></a><a id="15-agontuk-3-2005"></a>
+## 18. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Itihash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true)
+
+---
+
+<a id="19-live-now-লইভ-নও-2007"></a><a id="16-live-now-2007"></a>
+## 19. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#8-live-now-2007)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Hollow (Attohonon-2)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/03%20Hollow%20%28Attohonon-2%29.flac?download=true)
+
+---
+
+<a id="20-shomorpon-সমরপণ-2011"></a><a id="17-shomorpon-2011"></a>
+## 20. [Shomorpon (সমর্পণ) (2011)](https://github.com/GhostDog45/Mixed-Albums#19-shomorpon-2011)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Loke Bole Bolere**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/05%20-%20Aurthohin%20-%20Loke%20Bole%20Bolere.flac?download=true)
+- [**Aurthohin - Ekdin Tor Hoibore Shoron**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/06%20-%20Aurthohin%20-%20Ekdin%20Tor%20Hoibore%20Shoron.flac?download=true)
+- [**Aurthohin - Matiro Pinjira**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shomorpon%20%282011%29/07%20-%20Aurthohin%20-%20Matiro%20Pinjira.flac?download=true)
 
 ---
 
