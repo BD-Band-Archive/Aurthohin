@@ -34,18 +34,17 @@
 15. [Agontuk 3 (আগন্তুক ৩) (2005)](#15-agontuk-3-2005)
 16. [Live Now (লাইভ নাও) (2007)](#16-live-now-2007)
 17. [Shomorpon (সমর্পণ) (2011)](#17-shomorpon-2011)
+18. [Charpotro (2001)](#18-charpotro-2001)
+19. [Lokayot (2004)](#19-lokayot-2004)
+20. [Projonmo (2002)](#20-projonmo-2002)
 
 ### 👑 Bassbaba Sumon Discography
-18. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#18-sumon-o-aurthohin-1997)
-19. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](#19-shopnogulo-tomar-moto-2002)
-20. [Megher Deshe (মেঘের দেশে) (2005)](#20-megher-deshe-2005)
-21. [Boka Manushta (বোকা মানুষটা) (2007)](#21-boka-manushta-2007)
-22. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#22-ekhon-ami-2007)
-23. [Bassbaba Sumon — Standalone Solo Singles](#23-bassbaba-sumon--standalone-solo-singles)
-24. [Charpotro (2001)](#24-charpotro-2001)
-25. [Jewel With The Stars (2006)](#25-jewel-with-the-stars-2006)
-26. [Lokayot (2004)](#26-lokayot-2004)
-27. [Projonmo (2002)](#27-projonmo-2002)
+21. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](#21-sumon-o-aurthohin-1997)
+22. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](#22-shopnogulo-tomar-moto-2002)
+23. [Megher Deshe (মেঘের দেশে) (2005)](#23-megher-deshe-2005)
+24. [Boka Manushta (বোকা মানুষটা) (2007)](#24-boka-manushta-2007)
+25. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#25-ekhon-ami-2007)
+26. [Bassbaba Sumon — Standalone Solo Singles](#26-bassbaba-sumon--standalone-solo-singles)
 
 ---
 
@@ -470,7 +469,6 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Aurthohin - Itihash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20Itihash.flac?download=true)
-- [**Stentorian feat. Bassbaba Sumon - Bishonno Andher**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/15%20Bishonno%20Andher.flac?download=true)
 
 ---
 
@@ -494,6 +492,33 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
+<a id="18-charpotro-2001"></a><a id="24-charpotro-2001"></a>
+## 18. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Attohonon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true)
+
+---
+
+<a id="19-lokayot-2004"></a><a id="26-lokayot-2004"></a>
+## 19. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Boyosh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true)
+
+---
+
+<a id="20-projonmo-2002"></a><a id="27-projonmo-2002"></a>
+## 20. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Otit/Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
+
+---
+
 <a id="bassbaba-sumon-solo-discography"></a>
 # 👑 [Bassbaba Sumon](https://github.com/GhostDog45/Bassbaba-Sumon)
 
@@ -501,8 +526,8 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 ---
 
-<a id="18-sumon-o-aurthohin-1997"></a>
-## 18. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Bassbaba-Sumon)
+<a id="21-sumon-o-aurthohin-1997"></a><a id="18-sumon-o-aurthohin-1997"></a>
+## 21. [Sumon O Aurthohin (সুমন ও অর্থহীন) (1997)](https://github.com/GhostDog45/Bassbaba-Sumon)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 1997
@@ -544,8 +569,8 @@ Released in 1997 before the formal establishment of the band Aurthohin, *Sumon O
 
 ---
 
-<a id="19-shopnogulo-tomar-moto-2002"></a>
-## 19. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](https://github.com/GhostDog45/Mixed-Albums#3-shopnogulo-tomar-moto-2002)
+<a id="22-shopnogulo-tomar-moto-2002"></a><a id="19-shopnogulo-tomar-moto-2002"></a>
+## 22. [Shopnogulo Tomar Moto (স্বপ্নগুলো তোমার মত) (2002)](https://github.com/GhostDog45/Mixed-Albums#3-shopnogulo-tomar-moto-2002)
 
 - **Artist:** Bassbaba Sumon (অর্থহীন এর সুমন)
 - **Release Year:** 2002
@@ -583,8 +608,8 @@ Released in 2002 by G-Series under the moniker *"Aurthohin Er Sumon"*, *Shopnogu
 
 ---
 
-<a id="20-megher-deshe-2005"></a>
-## 20. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums#8-megher-deshe-2005)
+<a id="23-megher-deshe-2005"></a><a id="20-megher-deshe-2005"></a>
+## 23. [Megher Deshe (মেঘের দেশে) (2005)](https://github.com/GhostDog45/Mixed-Albums#8-megher-deshe-2005)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2005
@@ -623,8 +648,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="21-boka-manushta-2007"></a>
-## 21. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
+<a id="24-boka-manushta-2007"></a><a id="21-boka-manushta-2007"></a>
+## 24. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
 
 - **Artist:** Bassbaba Sumon
 - **Release Year:** 2007
@@ -669,8 +694,8 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 
 ---
 
-<a id="22-ekhon-ami-2007"></a>
-## 22. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums#10-ekhon-ami-2007)
+<a id="25-ekhon-ami-2007"></a><a id="22-ekhon-ami-2007"></a>
+## 25. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](https://github.com/GhostDog45/Mixed-Albums#10-ekhon-ami-2007)
 
 - **Artists:** Bassbaba Sumon & Anila Naz Chowdhury
 - **Release Year:** 2007
@@ -708,8 +733,8 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 
 ---
 
-<a id="23-bassbaba-sumon--standalone-solo-singles"></a>
-## 23. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums#13-singles--standalone-releases)
+<a id="26-bassbaba-sumon--standalone-solo-singles"></a><a id="23-bassbaba-sumon--standalone-solo-singles"></a>
+## 26. [Bassbaba Sumon — Standalone Solo Singles](https://github.com/GhostDog45/Mixed-Albums#13-singles--standalone-releases)
 
 - **Artist:** Bassbaba Sumon
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -719,43 +744,8 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 - [**Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
 - [**Oniyomer Golpo**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true)
 - [**Purano Shei Diner Kotha**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true)
+
 ---
-
-<a id="24-charpotro-2001"></a>
-## 24. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Attohonon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true)
----
-
-<a id="25-jewel-with-the-stars-2006"></a>
-## 25. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Bassbaba Sumon - Anubhobe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true)
-- [**Bassbaba Sumon - Notun Aami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true)
----
-
-<a id="26-lokayot-2004"></a>
-## 26. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Boyosh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true)
----
-
-<a id="27-projonmo-2002"></a>
-## 27. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Aurthohin - Otit/Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
-
-
-
-
 
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
