@@ -485,7 +485,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ---
 
 <a id="18-charpotro-2001"></a><a id="24-charpotro-2001"></a>
-## 18. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+## 18. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -494,7 +494,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ---
 
 <a id="19-lokayot-2004"></a><a id="26-lokayot-2004"></a>
-## 19. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 19. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -503,7 +503,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 ---
 
 <a id="20-projonmo-2002"></a><a id="27-projonmo-2002"></a>
-## 20. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+## 20. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
