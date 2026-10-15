@@ -42,6 +42,11 @@
 21. [Boka Manushta (বোকা মানুষটা) (2007)](#21-boka-manushta-2007)
 22. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#22-ekhon-ami-2007)
 23. [Bassbaba Sumon — Standalone Solo Singles](#23-bassbaba-sumon--standalone-solo-singles)
+24. [Charpotro (2001)](#24-charpotro-2001)
+25. [Jewel With The Stars (2006)](#25-jewel-with-the-stars-2006)
+26. [Lokayot (2004)](#26-lokayot-2004)
+27. [Projonmo (2002)](#27-projonmo-2002)
+
 ---
 
 <a id="1-trimatrik"></a>
@@ -714,6 +719,43 @@ A landmark collaboration in modern Bengali music, *Ekhon Ami* united Bassbaba Su
 - [**Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
 - [**Oniyomer Golpo**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Oniyomer%20Golpo.flac?download=true)
 - [**Purano Shei Diner Kotha**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Singles/Bassbaba%20Sumon%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true)
+---
+
+<a id="24-charpotro-2001"></a>
+## 24. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Attohonon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true)
+---
+
+<a id="25-jewel-with-the-stars-2006"></a>
+## 25. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Bassbaba Sumon - Anubhobe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true)
+- [**Bassbaba Sumon - Notun Aami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true)
+---
+
+<a id="26-lokayot-2004"></a>
+## 26. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Boyosh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true)
+---
+
+<a id="27-projonmo-2002"></a>
+## 27. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Otit/Aurthohin**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
+
+
+
+
 
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
