@@ -1,0 +1,30 @@
+Album Name: Aushomapto II
+Album Type: Band
+Release Year: 2011
+Genre: Rock
+Total Songs: 11
+Track List:
+01. Uru Uru Mon
+02. Alo R Adhar
+03. Anmone 2
+04. Jaak Na
+05. Golper Shuru (Odbhut Shei Cheleti
+06. Majhe Majhe
+07. Abar
+08. Akasher Tara
+09. Shurjo 2
+10. Cancer
+11. Nikrishto 2
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 042 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

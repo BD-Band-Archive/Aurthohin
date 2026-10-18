@@ -1,0 +1,33 @@
+Album Name: Notun Diner Michile
+Album Type: Band
+Release Year: 2003
+Genre: Rock
+Total Songs: 14
+Track List:
+01. Notun Diner Michile
+02. Hoytoba
+03. Krishnochura
+04. Jante Ichche Kore
+05. Tin Dewal
+06. Tomader Gaan
+07. Bhranto Ami
+08. Shat Din I
+09. Shat Din II
+10. Shat Din III
+11. Shat Din IV
+12. Shat Din V
+13. Shat Din VI
+14. Shat Din (The way Bassbaba intended)
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 088 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

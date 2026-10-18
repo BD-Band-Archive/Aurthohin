@@ -1,0 +1,27 @@
+Album Name: Phoenixer Diary 1
+Album Type: Band
+Release Year: 2022
+Genre: Rock
+Total Songs: 8
+Track List:
+01. Aajibon
+02. Adbhut
+03. Amar E Gaan
+04. Bidrohi
+05. Jokhon Tumi Nai
+06. Nithor
+07. Phoenix 1
+08. Shopnogulo
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 947 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.45.1

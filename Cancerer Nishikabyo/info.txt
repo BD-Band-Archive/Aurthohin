@@ -1,0 +1,27 @@
+Album Name: Cancerer Nishikabyo
+Album Type: Band
+Release Year: 2016
+Genre: Rock
+Total Songs: 8
+Track List:
+01. Bichoron
+02. Chaite Paro 3 (You Have to Bujhte
+03. Bhalobashte Janina
+04. Nikkrishto 3
+05. Neel Paharer Gaaye (feat. Zahed & Rafa)
+06. Punorjonmo (Guti 5)
+07. Adbhut Shob Chhelegulor Golpo (fe
+08. Cancerer Nishikabyo
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 944 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

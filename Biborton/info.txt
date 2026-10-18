@@ -1,0 +1,31 @@
+Album Name: Biborton
+Album Type: Band
+Release Year: 2001
+Genre: Rock
+Total Songs: 12
+Track List:
+01. Amar Klanti
+02. Amar Protichchobi
+03. Ghum
+04. Guti 2
+05. Kolpona
+06. Mrittur Shohor
+07. Nirbodh
+08. Odbhut Shei Cheleti 2
+09. Premer Gaan
+10. Probas Theke
+11. Rater Train
+12. Tumi
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 997 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

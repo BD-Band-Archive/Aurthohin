@@ -1,0 +1,31 @@
+Album Name: Trimatrik
+Album Type: Band
+Release Year: 2000
+Genre: Rock
+Total Songs: 12
+Track List:
+01. Odbhut Shei Cheleti
+02. Amar Na Bola Kotha
+03. Bedonar Chorabali
+04. Bhabchi
+05. Chole Gele
+06. Dur Theke
+07. Guti
+08. Megher Gaan
+09. Shomoy
+10. Shostha Shopono
+11. Tepantorer Math Periye
+12. Trimatrik
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 018 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)
