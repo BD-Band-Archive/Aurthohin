@@ -463,7 +463,6 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 - [**Amjonota**](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Aurthohin%20-%20Amjonota.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Aurthohin%20-%20Amjonota.flac?download=true)
 - [**Karon Tumi Omanush (Nikkrishto Revisited)**](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.flac?download=true)
-- [**Epitaph**](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Epitaph.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Aurthohin/master/Singles/Epitaph.flac?download=true)
 
 ### 🖼️ Album Artwork
 
