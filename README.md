@@ -456,7 +456,7 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Aurthohin Singles Cover" />
+  <img src="Singles/Album%20Cover/Aurthohin%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Aurthohin Singles Cover" />
 </p>
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -468,7 +468,8 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Aurthohin%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Aurthohin%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Aurthohin%20-%20Amjonota.jpg" width="300" alt="2. Aurthohin - Amjonota" /><br><sub><b>2. Aurthohin - Amjonota</b></sub> |
+| <img src="Singles/Album%20Cover/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.jpg" width="300" alt="3. Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)" /><br><sub><b>3. Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)</b></sub> |  |
 
 
 ### 💿 CD Ripper & Preservation Credit
