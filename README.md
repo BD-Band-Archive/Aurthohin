@@ -80,7 +80,6 @@ Released on October 7, 2000, *Trimatrik* ("Three-Dimensional") is the monumental
 | <img src="Trimatrik/Album%20Covers/Trimatrik%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Trimatrik/Album%20Covers/Trimatrik%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 | <img src="Trimatrik/Album%20Covers/Trimatrik%20%5BBack%5D_2.jpg" width="300" alt="7. Back Cover (Alternative)" /><br><sub><b>7. Back Cover (Alternative)</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
@@ -125,7 +124,6 @@ Released on December 10, 2001, *Biborton* ("Evolution") is widely celebrated by 
 | <img src="Biborton/Album%20Covers/Biborton%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Biborton/Album%20Covers/Biborton%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="Biborton/Album%20Covers/Biborton%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Biborton/Album%20Covers/Biborton%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Biborton/Album%20Covers/Biborton%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -174,7 +172,6 @@ Released in 2002, *Notun Diner Michile* ("Procession of a New Day") stands as on
 | <img src="Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
 | <img src="Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BInset-Front%5D.jpg" width="300" alt="5. Inset (Front)" /><br><sub><b>5. Inset (Front)</b></sub> | <img src="Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Notun%20Diner%20Michile/Album%20Covers/Notun%20Diner%20Michile%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -227,7 +224,6 @@ Released in 2003, *Dhrubok* ("Constant") is a watershed milestone that marked th
 | <img src="Dhrubok/Album%20Covers/profiles.jpg" width="300" alt="11. Member Profiles & Credits" /><br><sub><b>11. Member Profiles & Credits</b></sub> | <img src="Dhrubok/Album%20Covers/Dhrubok%20%5BCD%5D.jpg" width="300" alt="12. Compact Disc (CD)" /><br><sub><b>12. Compact Disc (CD)</b></sub> |
 | <img src="Dhrubok/Album%20Covers/Dhrubok%20%5BBack%5D.jpg" width="300" alt="13. Back Cover" /><br><sub><b>13. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
@@ -271,7 +267,6 @@ Released in 2008, *Aushomapto 1* ("Unfinished I") marked Aurthohin's triumphant 
 | <img src="Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%202%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%203%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BInset%20-%205%5D.jpg" width="300" alt="5. Inset (Part 5)" /><br><sub><b>5. Inset (Part 5)</b></sub> | <img src="Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Aushomapto%20I/Album%20Covers/Aushomapto%201%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -317,7 +312,6 @@ Released in 2011 as the direct sequel to *Aushomapto 1*, *Aushomapto 2* ("Unfini
 | <img src="Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BInset%20-%202%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BInset%20-%203%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Aushomapto%20II/Album%20Covers/Aushompato%202%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
@@ -356,7 +350,6 @@ Released in 2016, *Cancerer Nishikabyo* ("Night Poetry of Cancer") is a deeply p
 | | |
 | :---: | :---: |
 | <img src="Cancerer%20Nishikabyo/Album%20Covers/Cancerer%20Nishikabyo%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -399,7 +392,6 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 | :---: | :---: |
 | <img src="Phoenixer%20Diary%201/Album%20Covers/Phoenixer%20Diary%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -441,7 +433,6 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 | :---: | :---: |
 | <img src="Phoenixer%20Diary%202/Album%20Covers/Phoenixer%20Diary%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -470,7 +461,6 @@ Released in November 2022, *Phoenixer Diary 1* ("Diary of the Phoenix 1") herald
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Aurthohin%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Aurthohin%20-%20Amjonota.jpg" width="300" alt="2. Aurthohin - Amjonota" /><br><sub><b>2. Aurthohin - Amjonota</b></sub> |
 | <img src="Singles/Album%20Cover/Aurthohin%20-%20Karon%20Tumi%20Omanush%20%28Nikkrishto%20Revisited%29.jpg" width="300" alt="3. Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)" /><br><sub><b>3. Aurthohin - Karon Tumi Omanush (Nikkrishto Revisited)</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
